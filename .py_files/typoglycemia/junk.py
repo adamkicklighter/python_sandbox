@@ -1,1 +1,0 @@
-text = 'This is my sample text string'
